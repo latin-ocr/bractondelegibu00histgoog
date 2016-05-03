@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bractondelegibu00histgoog/bractondelegibu00histgoog_0376.png"; bbox 0 0 1177 1660; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 256 592 1018 614">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 256 592 1018 614">
+     <span class='ocr_line' id='line_1_1' title="bbox 256 592 1018 614; baseline 0.001 -9"><span class='ocrx_word' id='word_1_1' title='bbox 256 592 393 605; x_wconf 47' lang='grc' dir='ltr'>ΦΝΟ--θῑὲ</span> <span class='ocrx_word' id='word_1_2' title='bbox 397 593 493 611; x_wconf 48' lang='lat' dir='ltr'>&lt;¹0:⁸5ss</span> <span class='ocrx_word' id='word_1_3' title='bbox 497 592 1018 614; x_wconf 46' lang='lat' dir='ltr'>Q&amp;CB-(DF)&#39;nmo—OON&#39;ONJNQUGOEQU‘RDNOQQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 255 1161 1017 1187">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 255 1161 1017 1187">
+     <span class='ocr_line' id='line_1_2' title="bbox 255 1161 1017 1187; baseline 0 -12"><span class='ocrx_word' id='word_1_4' title='bbox 255 1161 391 1184; x_wconf 54' lang='grc' dir='ltr'>ΞΞἙὯΦΞΝ</span> <span class='ocrx_word' id='word_1_5' title='bbox 395 1162 492 1182; x_wconf 66' lang='grc' dir='ltr'>ὮΣΦῸΣ</span> <span class='ocrx_word' id='word_1_6' title='bbox 496 1161 513 1174; x_wconf 60' lang='grc' dir='ltr'>αἱ</span> <span class='ocrx_word' id='word_1_7' title='bbox 517 1161 1017 1187; x_wconf 43' lang='grc' dir='ltr'>ΕΙΣΦΟΙΞΣῆΙΟΕΞῧΣΦΝΨΦΦὲ-ΙΟΣὮΣΣὮΦῺ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 254 1211 1017 1243">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 254 1211 1017 1243">
+     <span class='ocr_line' id='line_1_3' title="bbox 254 1211 1017 1243; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 254 1211 1017 1243; x_wconf 52' lang='grc' dir='ltr'>888885εέΞἕἓξἕἓἕξέξὲξὲεεὸξῇᾟᾞψζχἪ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
